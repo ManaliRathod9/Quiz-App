@@ -1,0 +1,2 @@
+com/manalirathod/quizapp/BuildConfig.java
+ com.manalirathod.quizapp.BuildConfig
